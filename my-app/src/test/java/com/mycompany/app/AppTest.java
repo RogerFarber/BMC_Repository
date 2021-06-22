@@ -13,11 +13,11 @@ public class AppTest
     /**
      * Rigorous Test :-)
      */
-    /*@Test
+    @Test
     public void shouldAnswerWithTrue()
     {
-        assertTrue( true );
-    }*/
+        assertTrue( false );
+    }
 
     @Test
     public void testSomeString() {
