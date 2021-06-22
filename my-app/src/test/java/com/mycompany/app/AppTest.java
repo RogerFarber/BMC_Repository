@@ -13,12 +13,13 @@ public class AppTest
     /**
      * Rigorous Test :-)
      */
-    @Test
+    /*@Test
     public void shouldAnswerWithTrue()
     {
         assertTrue( true );
-    }
+    }*/
 
+    @Test
     public void testSomeString() {
         App myApp = new App();
         assertEquals("Hello World", myApp.SomeString() );
