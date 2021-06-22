@@ -22,6 +22,6 @@ public class AppTest
     @Test
     public void testSomeString() {
         App myApp = new App();
-        assertEquals("Hello World", myApp.SomeString() );
+        assertEquals("Hello World!", myApp.SomeString() );
     }
 }
