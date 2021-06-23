@@ -8,7 +8,7 @@ package com.mycompany.app;
 public class App 
 {
     public String SomeString() {
-        return "Hello World!";
+        return "Hello World!!!";
 
     }
     public static void main(String[] args)
