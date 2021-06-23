@@ -8,20 +8,23 @@ import org.junit.Test;
 /**
  * Unit test for simple App.
  */
+
 public class AppTest 
 {
     /**
      * Rigorous Test :-)
      */
+
     @Test
     public void shouldAnswerWithTrue()
     {
-        assertTrue( true );
+        assertTrue(true);
     }
 
     @Test
-    public void testSomeString() {
+    public void testSomeString()
+    {
         App myApp = new App();
-        assertEquals("Hello World!", myApp.SomeString() );
+        assertEquals("Hello World!", myApp.SomeString());
     }
 }
